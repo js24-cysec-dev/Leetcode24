@@ -9,3 +9,4 @@
 | 7 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 25 Nov 2026 | 07:31 pm |
 | 8 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 25 Nov 2026 | 07:53 pm |
 | 9 | [Neither Minimum nor Maximum](./LeetCode/Easy/Neither%20Minimum%20nor%20Maximum) | [LeetCode](https://leetcode.com/problems/neither-minimum-nor-maximum/) | Easy | 25 Nov 2026 | 08:07 pm |
+| 10 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 25 Nov 2026 | 08:32 pm |
