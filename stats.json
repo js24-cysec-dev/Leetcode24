@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "basic": 0
   },
@@ -14,15 +14,17 @@
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
     "LeetCode_Binary_Search": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
-    "2026-11-25": 4
+    "2026-11-25": 5
   },
   "todayProblems": [
     "Search Insert Position",
     "Largest Rectangle in Histogram",
     "Binary Search",
-    "Find First and Last Position of Element in Sorted Array"
+    "Find First and Last Position of Element in Sorted Array",
+    "Search in Rotated Sorted Array"
   ]
 }
