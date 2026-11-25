@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 3,
     "hard": 1,
     "basic": 0
@@ -18,10 +18,11 @@
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Missing_Number": true,
-    "LeetCode_Intersection_of_Two_Arrays": true
+    "LeetCode_Intersection_of_Two_Arrays": true,
+    "LeetCode_Neither_Minimum_nor_Maximum": true
   },
   "activityHistory": {
-    "2026-11-25": 8
+    "2026-11-25": 9
   },
   "todayProblems": [
     "Search Insert Position",
@@ -31,6 +32,7 @@
     "Search in Rotated Sorted Array",
     "Find Peak Element",
     "Missing Number",
-    "Intersection of Two Arrays"
+    "Intersection of Two Arrays",
+    "Neither Minimum nor Maximum"
   ]
 }
