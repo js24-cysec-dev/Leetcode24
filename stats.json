@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 3,
+    "medium": 4,
     "hard": 3,
     "basic": 0
   },
@@ -21,10 +21,11 @@
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Neither_Minimum_nor_Maximum": true,
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
-    "2026-11-25": 11
+    "2026-11-25": 12
   },
   "todayProblems": [
     "Search Insert Position",
@@ -37,6 +38,7 @@
     "Intersection of Two Arrays",
     "Neither Minimum nor Maximum",
     "Median of Two Sorted Arrays",
-    "Find Minimum in Rotated Sorted Array II"
+    "Find Minimum in Rotated Sorted Array II",
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
