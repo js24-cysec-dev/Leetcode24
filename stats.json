@@ -1,11 +1,11 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 7,
     "hard": 3,
     "basic": 0
@@ -26,14 +26,16 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Sort_Vowels_in_a_String": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
-    "LeetCode_Arranging_Coins": true
+    "LeetCode_Arranging_Coins": true,
+    "LeetCode_Valid_Perfect_Square": true
   },
   "activityHistory": {
     "2026-11-25": 14,
-    "2026-11-26": 2
+    "2026-11-26": 3
   },
   "todayProblems": [
     "Peak Index in a Mountain Array",
-    "Arranging Coins"
+    "Arranging Coins",
+    "Valid Perfect Square"
   ]
 }
