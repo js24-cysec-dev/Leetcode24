@@ -20,3 +20,4 @@
 | 18 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 26 Nov 2026 | 10:25 am |
 | 19 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 26 Nov 2026 | 11:15 am |
 | 20 | [Magnetic Force Between Two Balls](./LeetCode/Medium/Magnetic%20Force%20Between%20Two%20Balls) | [LeetCode](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | 26 Nov 2026 | 11:50 am |
+| 21 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 26 Nov 2026 | 12:14 pm |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 10,
     "hard": 3,
     "basic": 0
@@ -30,11 +30,12 @@
     "LeetCode_Valid_Perfect_Square": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
-    "LeetCode_Magnetic_Force_Between_Two_Balls": true
+    "LeetCode_Magnetic_Force_Between_Two_Balls": true,
+    "LeetCode_Reverse_Bits": true
   },
   "activityHistory": {
     "2026-11-25": 14,
-    "2026-11-26": 6
+    "2026-11-26": 7
   },
   "todayProblems": [
     "Peak Index in a Mountain Array",
@@ -42,6 +43,7 @@
     "Valid Perfect Square",
     "Koko Eating Bananas",
     "Capacity To Ship Packages Within D Days",
-    "Magnetic Force Between Two Balls"
+    "Magnetic Force Between Two Balls",
+    "Reverse Bits"
   ]
 }
