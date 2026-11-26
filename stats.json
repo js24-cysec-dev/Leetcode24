@@ -1,11 +1,11 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 11,
     "hard": 7,
     "basic": 0
@@ -38,11 +38,12 @@
     "LeetCode_Basic_Calculator": true,
     "LeetCode_Maximum_Building_Height": true,
     "LeetCode_Sum_of_Subsequence_Widths": true,
-    "LeetCode_Number_of_1_Bits": true
+    "LeetCode_Number_of_1_Bits": true,
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
   },
   "activityHistory": {
     "2026-11-25": 14,
-    "2026-11-26": 14
+    "2026-11-26": 15
   },
   "todayProblems": [
     "Peak Index in a Mountain Array",
@@ -58,6 +59,7 @@
     "Basic Calculator",
     "Maximum Building Height",
     "Sum of Subsequence Widths",
-    "Number of 1 Bits"
+    "Number of 1 Bits",
+    "Find Smallest Letter Greater Than Target"
   ]
 }
