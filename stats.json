@@ -1,13 +1,13 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 9,
     "medium": 11,
-    "hard": 6,
+    "hard": 7,
     "basic": 0
   },
   "syncedProblems": {
@@ -36,11 +36,12 @@
     "LeetCode_Find_in_Mountain_Array": true,
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_Basic_Calculator": true,
-    "LeetCode_Maximum_Building_Height": true
+    "LeetCode_Maximum_Building_Height": true,
+    "LeetCode_Sum_of_Subsequence_Widths": true
   },
   "activityHistory": {
     "2026-11-25": 14,
-    "2026-11-26": 12
+    "2026-11-26": 13
   },
   "todayProblems": [
     "Peak Index in a Mountain Array",
@@ -54,6 +55,7 @@
     "Find in Mountain Array",
     "Pow(x, n)",
     "Basic Calculator",
-    "Maximum Building Height"
+    "Maximum Building Height",
+    "Sum of Subsequence Widths"
   ]
 }

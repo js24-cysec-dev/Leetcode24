@@ -26,3 +26,4 @@
 | 24 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 26 Nov 2026 | 03:09 pm |
 | 25 | [Basic Calculator](./LeetCode/Hard/Basic%20Calculator) | [LeetCode](https://leetcode.com/problems/basic-calculator/) | Hard | 26 Nov 2026 | 09:17 pm |
 | 26 | [Maximum Building Height](./LeetCode/Hard/Maximum%20Building%20Height) | [LeetCode](https://leetcode.com/problems/maximum-building-height/) | Hard | 26 Nov 2026 | 09:38 pm |
+| 27 | [Sum of Subsequence Widths](./LeetCode/Hard/Sum%20of%20Subsequence%20Widths) | [LeetCode](https://leetcode.com/problems/sum-of-subsequence-widths/) | Hard | 26 Nov 2026 | 09:52 pm |
