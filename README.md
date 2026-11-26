@@ -25,3 +25,4 @@
 | 23 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 26 Nov 2026 | 02:45 pm |
 | 24 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 26 Nov 2026 | 03:09 pm |
 | 25 | [Basic Calculator](./LeetCode/Hard/Basic%20Calculator) | [LeetCode](https://leetcode.com/problems/basic-calculator/) | Hard | 26 Nov 2026 | 09:17 pm |
+| 26 | [Maximum Building Height](./LeetCode/Hard/Maximum%20Building%20Height) | [LeetCode](https://leetcode.com/problems/maximum-building-height/) | Hard | 26 Nov 2026 | 09:38 pm |
