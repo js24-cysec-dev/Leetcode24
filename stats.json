@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-11-25",
-  "todayCount": 14,
+  "totalSolved": 15,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-11-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 3,
     "basic": 0
   },
@@ -24,25 +24,14 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Sort_Colors": true,
-    "LeetCode_Sort_Vowels_in_a_String": true
+    "LeetCode_Sort_Vowels_in_a_String": true,
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true
   },
   "activityHistory": {
-    "2026-11-25": 14
+    "2026-11-25": 14,
+    "2026-11-26": 1
   },
   "todayProblems": [
-    "Search Insert Position",
-    "Largest Rectangle in Histogram",
-    "Binary Search",
-    "Find First and Last Position of Element in Sorted Array",
-    "Search in Rotated Sorted Array",
-    "Find Peak Element",
-    "Missing Number",
-    "Intersection of Two Arrays",
-    "Neither Minimum nor Maximum",
-    "Median of Two Sorted Arrays",
-    "Find Minimum in Rotated Sorted Array II",
-    "Find Minimum in Rotated Sorted Array",
-    "Sort Colors",
-    "Sort Vowels in a String"
+    "Peak Index in a Mountain Array"
   ]
 }
