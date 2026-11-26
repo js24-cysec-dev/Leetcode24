@@ -17,3 +17,4 @@
 | 15 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 26 Nov 2026 | 09:06 am |
 | 16 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 26 Nov 2026 | 09:31 am |
 | 17 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 26 Nov 2026 | 09:46 am |
+| 18 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 26 Nov 2026 | 10:25 am |
