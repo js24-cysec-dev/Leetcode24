@@ -21,3 +21,4 @@
 | 19 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 26 Nov 2026 | 11:15 am |
 | 20 | [Magnetic Force Between Two Balls](./LeetCode/Medium/Magnetic%20Force%20Between%20Two%20Balls) | [LeetCode](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | 26 Nov 2026 | 11:50 am |
 | 21 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 26 Nov 2026 | 12:14 pm |
+| 22 | [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) | [LeetCode](https://leetcode.com/problems/first-bad-version/) | Easy | 26 Nov 2026 | 12:22 pm |
