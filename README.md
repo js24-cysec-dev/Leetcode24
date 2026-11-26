@@ -23,3 +23,4 @@
 | 21 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 26 Nov 2026 | 12:14 pm |
 | 22 | [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) | [LeetCode](https://leetcode.com/problems/first-bad-version/) | Easy | 26 Nov 2026 | 12:22 pm |
 | 23 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 26 Nov 2026 | 02:45 pm |
+| 24 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 26 Nov 2026 | 03:09 pm |

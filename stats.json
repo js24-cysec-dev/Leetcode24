@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 10,
+    "medium": 11,
     "hard": 4,
     "basic": 0
   },
@@ -33,11 +33,12 @@
     "LeetCode_Magnetic_Force_Between_Two_Balls": true,
     "LeetCode_Reverse_Bits": true,
     "LeetCode_First_Bad_Version": true,
-    "LeetCode_Find_in_Mountain_Array": true
+    "LeetCode_Find_in_Mountain_Array": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-11-25": 14,
-    "2026-11-26": 9
+    "2026-11-26": 10
   },
   "todayProblems": [
     "Peak Index in a Mountain Array",
@@ -48,6 +49,7 @@
     "Magnetic Force Between Two Balls",
     "Reverse Bits",
     "First Bad Version",
-    "Find in Mountain Array"
+    "Find in Mountain Array",
+    "Pow(x, n)"
   ]
 }
