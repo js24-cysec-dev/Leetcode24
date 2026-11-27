@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 14,
+    "medium": 15,
     "hard": 7,
     "basic": 0
   },
@@ -46,18 +46,20 @@
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
     "LeetCode_Binary_Tree_Postorder_Traversal": true,
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
-    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true
+    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
+    "LeetCode_Count_Complete_Tree_Nodes": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
-    "2026-11-27": 5
+    "2026-11-27": 6
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
     "Binary Tree Inorder Traversal",
     "Binary Tree Postorder Traversal",
     "Binary Tree Level Order Traversal",
-    "Binary Tree Zigzag Level Order Traversal"
+    "Binary Tree Zigzag Level Order Traversal",
+    "Count Complete Tree Nodes"
   ]
 }
