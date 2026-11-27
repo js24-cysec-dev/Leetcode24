@@ -31,3 +31,4 @@
 | 29 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 26 Nov 2026 | 09:56 pm |
 | 30 | [K-diff Pairs in an Array](./LeetCode/Medium/K-diff%20Pairs%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | 26 Nov 2026 | 09:57 pm |
 | 31 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 10:22 pm |
+| 32 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 27 Nov 2026 | 01:51 pm |
