@@ -43,3 +43,4 @@
 | 41 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 27 Nov 2026 | 09:52 pm |
 | 42 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 27 Nov 2026 | 09:52 pm |
 | 43 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 27 Nov 2026 | 09:53 pm |
+| 44 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 27 Nov 2026 | 09:58 pm |
