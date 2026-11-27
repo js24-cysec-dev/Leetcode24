@@ -41,3 +41,4 @@
 | 39 | [Count Days Without Meetings](./LeetCode/Medium/Count%20Days%20Without%20Meetings) | [LeetCode](https://leetcode.com/problems/count-days-without-meetings/) | Medium | 27 Nov 2026 | 09:17 pm |
 | 40 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 27 Nov 2026 | 09:49 pm |
 | 41 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 27 Nov 2026 | 09:52 pm |
+| 42 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 27 Nov 2026 | 09:52 pm |
