@@ -37,3 +37,4 @@
 | 35 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 27 Nov 2026 | 03:24 pm |
 | 36 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 27 Nov 2026 | 03:35 pm |
 | 37 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 27 Nov 2026 | 03:52 pm |
+| 38 | [Maximize Area of Square Hole in Grid](./LeetCode/Medium/Maximize%20Area%20of%20Square%20Hole%20in%20Grid) | [LeetCode](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Medium | 27 Nov 2026 | 09:12 pm |
