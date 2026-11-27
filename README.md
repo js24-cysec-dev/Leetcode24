@@ -39,3 +39,4 @@
 | 37 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 27 Nov 2026 | 03:52 pm |
 | 38 | [Maximize Area of Square Hole in Grid](./LeetCode/Medium/Maximize%20Area%20of%20Square%20Hole%20in%20Grid) | [LeetCode](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Medium | 27 Nov 2026 | 09:12 pm |
 | 39 | [Count Days Without Meetings](./LeetCode/Medium/Count%20Days%20Without%20Meetings) | [LeetCode](https://leetcode.com/problems/count-days-without-meetings/) | Medium | 27 Nov 2026 | 09:17 pm |
+| 40 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 27 Nov 2026 | 09:49 pm |

@@ -1,13 +1,13 @@
 {
-  "totalSolved": 39,
+  "totalSolved": 40,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 15,
     "medium": 17,
-    "hard": 7,
+    "hard": 8,
     "basic": 0
   },
   "syncedProblems": {
@@ -49,12 +49,13 @@
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "LeetCode_Count_Complete_Tree_Nodes": true,
     "LeetCode_Maximize_Area_of_Square_Hole_in_Grid": true,
-    "LeetCode_Count_Days_Without_Meetings": true
+    "LeetCode_Count_Days_Without_Meetings": true,
+    "LeetCode_Serialize_and_Deserialize_Binary_Tree": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
-    "2026-11-27": 8
+    "2026-11-27": 9
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
@@ -64,6 +65,7 @@
     "Binary Tree Zigzag Level Order Traversal",
     "Count Complete Tree Nodes",
     "Maximize Area of Square Hole in Grid",
-    "Count Days Without Meetings"
+    "Count Days Without Meetings",
+    "Serialize and Deserialize Binary Tree"
   ]
 }
