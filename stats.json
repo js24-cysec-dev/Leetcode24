@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 12,
+    "medium": 13,
     "hard": 7,
     "basic": 0
   },
@@ -44,16 +44,18 @@
     "LeetCode_Stone_Removal_Game": true,
     "LeetCode_Binary_Tree_Preorder_Traversal": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
-    "LeetCode_Binary_Tree_Postorder_Traversal": true
+    "LeetCode_Binary_Tree_Postorder_Traversal": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
-    "2026-11-27": 3
+    "2026-11-27": 4
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
     "Binary Tree Inorder Traversal",
-    "Binary Tree Postorder Traversal"
+    "Binary Tree Postorder Traversal",
+    "Binary Tree Level Order Traversal"
   ]
 }
