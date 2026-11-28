@@ -1,11 +1,11 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-28",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 22,
     "hard": 8,
     "basic": 0
@@ -62,13 +62,14 @@
     "GeeksForGeeks_Left_View_of_Binary_Tree": true,
     "LeetCode_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
-    "LeetCode_Kth_Smallest_Element_in_a_BST": true
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true,
+    "LeetCode_Minimum_Absolute_Difference_in_BST": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
     "2026-11-27": 15,
-    "2026-11-28": 6
+    "2026-11-28": 7
   },
   "todayProblems": [
     "Vertical Tree Traversal",
@@ -76,6 +77,7 @@
     "Left View of Binary Tree",
     "Construct Binary Tree from Inorder and Postorder Traversal",
     "Validate Binary Search Tree",
-    "Kth Smallest Element in a BST"
+    "Kth Smallest Element in a BST",
+    "Minimum Absolute Difference in BST"
   ]
 }
