@@ -56,3 +56,4 @@
 | 54 | [Serialize and Deserialize BST](./LeetCode/Medium/Serialize%20and%20Deserialize%20BST) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 28 Nov 2026 | 03:31 pm |
 | 55 | [Sum Root to Leaf Numbers](./LeetCode/Medium/Sum%20Root%20to%20Leaf%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 28 Nov 2026 | 04:41 pm |
 | 56 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 28 Nov 2026 | 04:42 pm |
+| 57 | [Increasing Order Search Tree](./LeetCode/Easy/Increasing%20Order%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | 28 Nov 2026 | 08:27 pm |

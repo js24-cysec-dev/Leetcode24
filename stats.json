@@ -1,11 +1,11 @@
 {
-  "totalSolved": 56,
+  "totalSolved": 57,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-28",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 24,
     "hard": 8,
     "basic": 0
@@ -66,13 +66,14 @@
     "LeetCode_Minimum_Absolute_Difference_in_BST": true,
     "LeetCode_Serialize_and_Deserialize_BST": true,
     "LeetCode_Sum_Root_to_Leaf_Numbers": true,
-    "LeetCode_Invert_Binary_Tree": true
+    "LeetCode_Invert_Binary_Tree": true,
+    "LeetCode_Increasing_Order_Search_Tree": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
     "2026-11-27": 15,
-    "2026-11-28": 10
+    "2026-11-28": 11
   },
   "todayProblems": [
     "Vertical Tree Traversal",
@@ -84,6 +85,7 @@
     "Minimum Absolute Difference in BST",
     "Serialize and Deserialize BST",
     "Sum Root to Leaf Numbers",
-    "Invert Binary Tree"
+    "Invert Binary Tree",
+    "Increasing Order Search Tree"
   ]
 }
