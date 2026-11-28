@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-28",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 23,
+    "medium": 24,
     "hard": 8,
     "basic": 0
   },
@@ -64,13 +64,14 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Minimum_Absolute_Difference_in_BST": true,
-    "LeetCode_Serialize_and_Deserialize_BST": true
+    "LeetCode_Serialize_and_Deserialize_BST": true,
+    "LeetCode_Sum_Root_to_Leaf_Numbers": true
   },
   "activityHistory": {
     "2026-11-25": 14,
     "2026-11-26": 17,
     "2026-11-27": 15,
-    "2026-11-28": 8
+    "2026-11-28": 9
   },
   "todayProblems": [
     "Vertical Tree Traversal",
@@ -80,6 +81,7 @@
     "Validate Binary Search Tree",
     "Kth Smallest Element in a BST",
     "Minimum Absolute Difference in BST",
-    "Serialize and Deserialize BST"
+    "Serialize and Deserialize BST",
+    "Sum Root to Leaf Numbers"
   ]
 }

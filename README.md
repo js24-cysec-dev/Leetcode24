@@ -54,3 +54,4 @@
 | 52 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 28 Nov 2026 | 02:32 pm |
 | 53 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 28 Nov 2026 | 02:34 pm |
 | 54 | [Serialize and Deserialize BST](./LeetCode/Medium/Serialize%20and%20Deserialize%20BST) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 28 Nov 2026 | 03:31 pm |
+| 55 | [Sum Root to Leaf Numbers](./LeetCode/Medium/Sum%20Root%20to%20Leaf%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 28 Nov 2026 | 04:41 pm |
