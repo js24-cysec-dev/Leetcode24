@@ -47,3 +47,4 @@
 | 45 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 27 Nov 2026 | 09:59 pm |
 | 46 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 27 Nov 2026 | 09:59 pm |
 | 47 | [Vertical Tree Traversal](./GeeksForGeeks/Medium/Vertical%20Tree%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) | Medium | 28 Nov 2026 | 09:53 am |
+| 48 | [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) | [LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | 28 Nov 2026 | 10:27 am |
