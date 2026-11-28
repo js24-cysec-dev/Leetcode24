@@ -58,3 +58,4 @@
 | 56 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 28 Nov 2026 | 04:42 pm |
 | 57 | [Increasing Order Search Tree](./LeetCode/Easy/Increasing%20Order%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | 28 Nov 2026 | 08:27 pm |
 | 58 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 28 Nov 2026 | 08:56 pm |
+| 59 | [Path Sum III](./LeetCode/Medium/Path%20Sum%20III) | [LeetCode](https://leetcode.com/problems/path-sum-iii/) | Medium | 28 Nov 2026 | 09:34 pm |
