@@ -46,3 +46,4 @@
 | 44 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 27 Nov 2026 | 09:58 pm |
 | 45 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 27 Nov 2026 | 09:59 pm |
 | 46 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 27 Nov 2026 | 09:59 pm |
+| 47 | [Vertical Tree Traversal](./GeeksForGeeks/Medium/Vertical%20Tree%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) | Medium | 28 Nov 2026 | 09:53 am |
