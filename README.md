@@ -53,3 +53,4 @@
 | 51 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 28 Nov 2026 | 01:57 pm |
 | 52 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 28 Nov 2026 | 02:32 pm |
 | 53 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 28 Nov 2026 | 02:34 pm |
+| 54 | [Serialize and Deserialize BST](./LeetCode/Medium/Serialize%20and%20Deserialize%20BST) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 28 Nov 2026 | 03:31 pm |
