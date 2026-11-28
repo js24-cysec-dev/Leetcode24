@@ -50,3 +50,4 @@
 | 48 | [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) | [LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | 28 Nov 2026 | 10:27 am |
 | 49 | [Left View of Binary Tree](./GeeksForGeeks/Easy/Left%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | Easy | 28 Nov 2026 | 10:35 am |
 | 50 | [Construct Binary Tree from Inorder and Postorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 28 Nov 2026 | 01:39 pm |
+| 51 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 28 Nov 2026 | 01:57 pm |
